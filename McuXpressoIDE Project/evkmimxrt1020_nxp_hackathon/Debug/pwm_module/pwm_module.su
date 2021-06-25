@@ -1,0 +1,14 @@
+core_cm7.h:2032:22:__NVIC_SetPriority	16	static
+fsl_clock.h:1012:20:CLOCK_SetMux	24	static
+fsl_clock.h:1049:20:CLOCK_SetDiv	24	static
+pwm_module.c:51:10:LPI2C4_GetFreq	8	static
+pwm_module.c:56:13:I2C4_InitTouchI2cClk	8	static
+pwm_module.c:64:13:I2C4_SignalEvent	16	static
+pwm_module.c:78:6:I2C4_Transmit	32	static
+pwm_module.c:91:6:I2C4_Receive	32	static
+pwm_module.c:104:6:delay_ms	16	static
+pwm_module.c:109:6:pwm_module_begin	16	static
+pwm_module.c:137:6:pwm_module_setPWM	16	static
+pwm_module.c:145:10:pwm_module_getPWM	24	static
+pwm_module.c:160:6:pwm_module_setPWMFreq	16	static
+pwm_module.c:165:6:pwm_module_DEMO	16	static

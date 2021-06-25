@@ -1,0 +1,17 @@
+ads1115.c:23:6:ADS1115_WriteRegister	16	static
+ads1115.c:33:9:ADS1115_ReadRegister	16	static
+ads1115.c:45:7:get_lsb_multiplier	24	static
+ads1115.c:108:10:get_delay_msec	24	static
+ads1115.c:142:10:get_adc_config	16	static
+ads1115.c:162:6:ADS1115_init	16	static
+ads1115.c:189:6:ADS1115_reset	16	static
+ads1115.c:203:6:ADS1115_setGain	16	static
+ads1115.c:213:11:ADS1115_getGain	16	static
+ads1115.c:223:6:ADS1115_setSPS	16	static
+ads1115.c:233:10:ADS1115_getSPS	16	static
+ads1115.c:243:6:ADS1115_setCONV	16	static
+ads1115.c:253:11:ADS1115_getCONV	16	static
+ads1115.c:264:7:ADS1115_readADC	24	static
+ads1115.c:306:9:ADS1115_readADC_raw	24	static
+ads1115.c:349:6:ADS1115_startComparator_SingleEnded	24	static
+ads1115.c:393:7:ADS1115_getLastConversionResults	24	static

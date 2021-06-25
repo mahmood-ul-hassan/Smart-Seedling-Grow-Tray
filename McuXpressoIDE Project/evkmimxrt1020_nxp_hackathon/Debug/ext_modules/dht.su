@@ -1,0 +1,9 @@
+fsl_gpio.h:176:24:GPIO_PinRead	16	static
+dht.c:51:12:DHT_begin	16	static
+dht.c:88:6:read_Temperature_Humidity	24	static
+dht.c:151:7:convertCtoF	16	static
+dht.c:172:7:convertFtoC	16	static
+dht.c:196:6:readHeatIndex	16	static
+dht.c:222:6:computeHeatIndex	40	static
+dht.c:275:9:DHT_read	360	static
+dht.c:404:17:expectPulse	24	static

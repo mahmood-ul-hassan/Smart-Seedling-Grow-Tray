@@ -1,0 +1,2 @@
+lv_disp.h:182:20:lv_scr_load	16	static
+gui_guider.c:11:6:setup_ui	16	static

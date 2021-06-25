@@ -1,0 +1,7 @@
+fsl_ft6x06.c:34:6:FT6X06_EventHandler	16	static
+fsl_ft6x06.c:40:17:FT_6X06_WaitEvent	24	static
+fsl_ft6x06.c:53:10:FT6X06_Init	32	static
+fsl_ft6x06.c:87:10:FT6X06_Denit	16	static
+fsl_ft6x06.c:100:10:FT6X06_ReadTouchData	32	static
+fsl_ft6x06.c:135:10:FT6X06_GetSingleTouch	40	static
+fsl_ft6x06.c:169:10:FT6X06_GetMultiTouch	40	static

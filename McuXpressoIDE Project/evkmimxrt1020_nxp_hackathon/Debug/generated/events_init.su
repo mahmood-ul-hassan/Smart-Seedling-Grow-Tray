@@ -1,0 +1,17 @@
+lv_obj_style_dec.h:167:1:lv_obj_set_style_local_text_font	24	static
+lv_slider.h:83:20:lv_slider_set_value	16	static
+events_init.c:30:6:sensors_value_refresher	16	static
+events_init.c:35:6:events_init	16	static
+events_init.c:39:13:Home_menuevent_handler	24	static
+events_init.c:78:6:events_init_Home	16	static
+events_init.c:83:13:PWM_control_pwm_val_sliderevent_handler	16	static
+events_init.c:109:13:PWM_control_pwm_ch_sel_ddlistevent_handler	24	static
+events_init.c:136:13:PWM_control_pwm_menu_btnevent_handler	24	static
+events_init.c:151:6:events_init_PWM_control	16	static
+events_init.c:158:13:Sensors_monitor_sensors_menu_btnevent_handler	24	static
+events_init.c:228:6:events_init_Sensors_monitor	16	static
+events_init.c:234:13:RGB_control_rgb_menu_btnevent_handler	24	static
+events_init.c:249:13:RGB_control_redevent_handler	16	static
+events_init.c:268:13:RGB_control_greenevent_handler	16	static
+events_init.c:287:13:RGB_control_blueevent_handler	16	static
+events_init.c:306:6:events_init_RGB_control	16	static

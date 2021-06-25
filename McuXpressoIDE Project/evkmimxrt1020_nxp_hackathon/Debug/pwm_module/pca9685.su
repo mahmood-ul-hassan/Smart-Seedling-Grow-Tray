@@ -1,0 +1,17 @@
+pca9685.c:47:6:pca9685_getconfig	16	static
+pca9685.c:61:6:pca9685_init	16	static
+pca9685.c:75:6:pca9685_reset	16	static
+pca9685.c:83:6:pca9685_sleep	24	static
+pca9685.c:93:6:pca9685_wakeup	24	static
+pca9685.c:104:6:pca9685_setExtClk	24	static
+pca9685.c:128:6:pca9685_setPWMFreq	24	static
+pca9685.c:171:6:pca9685_setOutputMode	24	static
+pca9685.c:189:9:pca9685_readPrescale	16	static
+pca9685.c:198:10:pca9685_getPWM	16	static
+pca9685.c:226:6:pca9685_setPWM	24	static
+pca9685.c:264:6:pca9685_setPin	16	static
+pca9685.c:296:6:pca9685_writeMicroseconds	40	static
+pca9685.c:338:10:pca9685_getOscillatorFrequency	16	static
+pca9685.c:347:6:pca9685_setOscillatorFrequency	16	static
+pca9685.c:353:9:pca9685_read8	16	static
+pca9685.c:378:6:pca9685_write8	16	static
